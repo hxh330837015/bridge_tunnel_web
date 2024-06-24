@@ -9700,7 +9700,7 @@ a8k:function a8k(){},
 a8l:function a8l(){},
 aWI(){var s=$.py().nB$
 s===$&&A.b()
-s.sA7("http://1.92.105.179:8080")
+s.sA7("https://1.92.105.179:8080")
 s=$.py().nB$
 s===$&&A.b()
 s.sAj(B.hg)
